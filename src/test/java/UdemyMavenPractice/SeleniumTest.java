@@ -8,5 +8,6 @@ public class SeleniumTest {
 	public void seleniumTest()
 	{
 		System.out.println("seleniumTest");
+		System.out.println("seleniumTest1");
 	}
 }

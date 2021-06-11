@@ -11,5 +11,9 @@ public class APITest {
 		System.out.println("apiTest1");
 		System.out.println("apiTest2");
 		System.out.println("apiTest3");
+		System.out.println("apiTest4");
+		System.out.println("apiTest5");
+		System.out.println("apiTest6");
+		System.out.println("apiTest7");
 	}
 }
