@@ -9,4 +9,9 @@ public class AppiumTest {
 	{
 		System.out.println("appiumTest");
 	}
+	@Test
+	public void appiumTest1()
+	{
+		System.out.println("appiumTest");
+	}
 }

@@ -16,4 +16,10 @@ public class APITest {
 		System.out.println("apiTest6");
 		System.out.println("apiTest7");
 	}
+	@Test
+	public void apiTest1()
+	{
+		System.out.println("apiTest");
+		
+	}
 }
