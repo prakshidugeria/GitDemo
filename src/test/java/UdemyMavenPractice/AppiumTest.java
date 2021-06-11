@@ -14,4 +14,19 @@ public class AppiumTest {
 	{
 		System.out.println("appiumTest");
 	}
+	@Test
+	public void appiumTest2()
+	{
+		System.out.println("appiumTest");
+	}
+	@Test
+	public void appiumTest3()
+	{
+		System.out.println("appiumTest");
+	}
+	@Test
+	public void appiumTest4()
+	{
+		System.out.println("appiumTest");
+	}
 }

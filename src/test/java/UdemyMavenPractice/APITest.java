@@ -22,4 +22,10 @@ public class APITest {
 		System.out.println("apiTest");
 		
 	}
+	@Test
+	public void apiTest2()
+	{
+		System.out.println("apiTest");
+		
+	}
 }
